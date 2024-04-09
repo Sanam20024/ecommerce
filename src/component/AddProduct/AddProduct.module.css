@@ -1,0 +1,58 @@
+/* Styles for the cart container */
+.cart_container {
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 2px solid black; */
+    margin-top: 90px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: darkseagreen;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+/* Styles for the add to cart form */
+.addtocard_form {
+    margin-left: 50px;
+    /* border: 2px solid red; */
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+
+/* Styles for input fields within the add to cart form */
+.addtocard_form input {
+    width: 85%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    outline: none;
+    border: 2px solid green;
+}
+
+/* Styles for labels within the add to cart form */
+.addtocard_form label {
+    font-size: larger;
+}
+
+/* Styles for buttons within the add to cart form */
+.addtocard_form button {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    font-size: large;
+    outline: none;
+    border: 2px solid green;
+}
+
+/* Media queries for smaller screens */
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+    .cart_container {
+        width: 65%;
+        margin-left: 10px;
+    }
+    .addtocard_form {
+        margin-left: 10px;
+    }
+}

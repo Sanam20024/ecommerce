@@ -1,0 +1,103 @@
+{
+  "product": [
+    {
+      "name": "Designer rings",
+      "description": "Introducing our exquisite Designer Ring, where elegance meets innovation in a harmonious symphony of craftsmanship. Crafted with meticulous attention to detail, this ring is a testament to sophistication and style.",
+      "price": "100",
+      "starRating": "5",
+      "image": "https://cdn.pixabay.com/photo/2017/08/12/18/15/rings-2634929_1280.png",
+      "isDisable": true,
+      "id": "1"
+    },
+    {
+      "name": "Hair Decor Tiara",
+      "description": "Elevate any ensemble with the captivating allure of our hair decr tiara. Whether it's a special occasion or a daily indulgence, this tiara is sure to become a cherished addition to your collection, a reflection of your unique style and unparalleled elegance.",
+      "price": "300",
+      "starRating": "4",
+      "image": "https://cdn.pixabay.com/photo/2017/07/08/17/54/decor-2485081_1280.png",
+      "isDisable": true,
+      "id": "2"
+    },
+    {
+      "id": "b134",
+      "name": "Couple rings",
+      "description": "Designer ring for your Loved ones.Each facet of this stunning ring tells a story of artistry and creativity. Its design transcends the ordinary, capturing the essence of modern luxury with a touch of timeless allure.",
+      "price": "2500",
+      "starRating": "4",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2020/07/11/18/13/wedding-ring-5394881_960_720.png"
+    },
+    {
+      "id": "5b5f",
+      "name": "Couple Ring",
+      "description": "Impeccably crafted from the finest materials, this ring is not just an accessory, but a statement piece that reflects your individuality and impeccable taste.",
+      "price": "8000",
+      "starRating": "4",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2018/12/04/09/48/ring-3855222_960_720.png"
+    },
+    {
+      "id": "3328",
+      "name": "Heart Pendent ",
+      "description": " Introducing our exquisite Heart Pendant Necklace, where elegance meets emotion in a timeless embrace. Crafted with meticulous attention to detail, this stunning piece captures the essence of love in its purest form.",
+      "price": "200",
+      "starRating": "5",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2017/03/03/16/14/heart-2114333_1280.png"
+    },
+    {
+      "id": "7ef1",
+      "name": "Men's Gold Chain",
+      "description": "Indulge in timeless elegance with our exquisite gold chain, a true embodiment of luxury and sophistication. Crafted with m",
+      "price": "450",
+      "starRating": "3",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2012/04/05/00/59/chain-25487_1280.png"
+    },
+    {
+      "id": "5354",
+      "name": "Ladies Jewelry (Jhumka)",
+      "description": "Step into a world of timeless elegance and vibrant allure with our exquisite Indian jewelry collection, featuring the mesmerizing jhumka earrings.",
+      "price": "540",
+      "starRating": "2",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2017/07/08/21/16/decor-2485663_1280.png"
+    },
+    {
+      "id": "8d22",
+      "name": "Women Ring",
+      "description": "Embrace elegance and timeless beauty with our exquisite women's ring, a radiant symbol of sophistication and grace. Crafted with precision and passion, this stunning piece features a captivating design that effortlessly complements any style, whether it's a casual outing or a glamorous soirée.",
+      "price": "100",
+      "starRating": "4",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2018/05/21/04/35/ring-3417372_1280.png"
+    },
+    {
+      "id": "a18b",
+      "name": "Silver Women Ring",
+      "description": "Each detail is meticulously sculpted to perfection, showcasing the finest craftsmanship and attention to detail. Adorned with shimmering gemstones that dance in the light, this ring is a mesmerizing ode to femininity and allure.",
+      "price": "700",
+      "starRating": "5",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2019/11/24/14/15/diamond-4649510_1280.png"
+    },
+    {
+      "id": "cb64",
+      "name": "Women's Dimond Ring",
+      "description": "Indulge in the luxury of this enchanting accessory, a statement piece that speaks volumes about your impeccable taste and refined sensibility. Whether as a treat for yourself or a thoughtful gift for someone special, this women's ring is sure to captivate hearts and turn heads wherever you go.",
+      "price": "10000",
+      "starRating": "5",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2019/11/24/14/12/diamonds-4649491_960_720.png"
+    },
+    {
+      "id": "fb30",
+      "name": "Silver Lock Key Pendant ",
+      "description": "Unlock elegance with our exquisite Lock Key Pendant, where timeless design meets unparalleled craftsmanship. Crafted with precision and attention to detail, this pendant is a symbol of sophistication and style.",
+      "price": "500",
+      "starRating": "4",
+      "isDisable": true,
+      "image": "https://cdn.pixabay.com/photo/2019/12/18/13/50/pendant-4704041_960_720.png"
+    }
+  ]
+}
